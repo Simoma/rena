@@ -127,15 +127,15 @@ Page {
                 setMapViewport()
             }
         }
-        Behavior on radius {
-            NumberAnimation { duration: 200 }
-        }
-        Behavior on center.latitude {
-            NumberAnimation { duration: 200 }
-        }
-        Behavior on center.longitude {
-            NumberAnimation { duration: 200 }
-        }
+//        Behavior on radius {
+//            NumberAnimation { duration: 200 }
+//        }
+//        Behavior on center.latitude {
+//            NumberAnimation { duration: 200 }
+//        }
+//        Behavior on center.longitude {
+//            NumberAnimation { duration: 200 }
+//        }
     }
 
     MapPolyline {
