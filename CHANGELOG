@@ -3,6 +3,10 @@ Rena for Sailfish
 Change log of binary releases
 -----------------------------
 
+0.0.7
+    Fix white screen on startup bug
+    Settings page: Changeable track point interval
+
 0.0.6
     Browsable map while recording
     Show maximum speed for old tracks (currently unfiltered)
@@ -35,4 +39,4 @@ Change log of binary releases
 
 0.0.1
     First release
-	
+
